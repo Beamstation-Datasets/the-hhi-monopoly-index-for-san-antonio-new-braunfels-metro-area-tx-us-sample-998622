@@ -9,9 +9,9 @@
 | Dataset ID | `998622` |
 | Location | San Antonio-New Braunfels, TX |
 | Category | Restaurants |
-| Full dataset size | 155 records |
-| Free sample size | 19 records (12.26%) |
-| Last export | 2026-03-31T23:44:11.809463+00:00 |
+| Full dataset size | 195 records |
+| Free sample size | 19 records (9.74%) |
+| Last export | 2026-04-15T01:25:04.916773+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-san-antonio-new-braunfels-metro-area-tx-us-sample-998622/releases/download/sample-latest/beamstation_998622_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
