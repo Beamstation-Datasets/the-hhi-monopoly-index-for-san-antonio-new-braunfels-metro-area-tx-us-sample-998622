@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for San Antonio-New Braunfels Metro Area, TX, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `998622` |
 | Location | San Antonio-New Braunfels, TX |
 | Category | Restaurants |
-| Full dataset size | 195 records |
-| Free sample size | 19 records (9.74%) |
-| Last export | 2026-04-15T01:25:04.916773+00:00 |
+| Full dataset size | 162 records |
+| Free sample size | 16 records (9.88%) |
+| Last export | 2026-04-22T05:53:21.236244+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-san-antonio-new-braunfels-metro-area-tx-us-sample-998622/releases/download/sample-latest/beamstation_998622_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
