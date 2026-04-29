@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7bb500c6-b6a3-4e52-9f9f-63f07c813612",
+  "export_job_id": "2400384a-ef8d-428c-82a7-3d4182dd0f7d",
   "id_short": 998622,
-  "published_at": "2026-04-22T19:12:33Z",
+  "published_at": "2026-04-29T19:21:11Z",
   "repo_name": "the-hhi-monopoly-index-for-san-antonio-new-braunfels-metro-area-tx-us-sample-998622",
   "sample_asset_name": "beamstation_998622_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/998622/beamstation_998622_restaurants-us-sanantonionewbraunfelstx_SAMPLE_DIST.csv",
-  "sample_records": 16,
-  "sample_sha256": "7456964067da98932c26931225638264c56f31829a82f6123ab0daac61e1e10c",
-  "sample_size_bytes": 79421,
-  "total_records": 162
+  "sample_records": 20,
+  "sample_sha256": "95e06b47891fda5f8b89ba6e7ba51d920a0d2522f84c85cbc8491011230d74fb",
+  "sample_size_bytes": 87826,
+  "total_records": 202
 }
